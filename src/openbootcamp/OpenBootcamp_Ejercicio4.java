@@ -72,17 +72,13 @@ public class OpenBootcamp_Ejercicio4 {
                 break;
             case "verano":
                 System.out.println("La estación es verano");
-
                 break;
             case "otoño":
                 System.out.println("La estación es otoño");
-
                 break;
             case "invierno":
                 System.out.println("La estación es invierno");
-
                 break;
-
             default:
                 System.out.println("La estación no existe");
         }
