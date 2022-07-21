@@ -1,4 +1,4 @@
-#~Ejercicios tema 4
+# Ejercicios tema 4
 ## OpenBootCamp-Ejercicios4_Estructuras_de_control-Java
 
 En este ejercicio practicarás las estructuras de control, para ello deberás crear:
