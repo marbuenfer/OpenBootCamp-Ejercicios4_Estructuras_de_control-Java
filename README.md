@@ -21,4 +21,4 @@ En este ejercicio practicarás las estructuras de control, para ello deberás cr
 ## Realización:
 El fichero main se llama 'OpenBootcamp_Ejercicio4', en este archivo se prueban las diferentes estructuras de control planteadas en el ejercicio 4.
 
-También se incluye fichero 'OpenBootcamp_Ejercicio3.java', realizado anteriormente.
+También se incluye fichero 'OpenBootcamp_Ejercicio3.java', realizado anteriormente en el ejercicio3.
